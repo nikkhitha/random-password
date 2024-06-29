@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: olive;
+}
+.container{
+    margin-top:10rem;
+    margin-left:13rem;
+}
+.heading{
+    font-size: 2.7rem;
+    font-weight: bold;
+}
+span{
+    border-bottom:4px solid yellow;
+    padding-bottom:12px;
+    color:yellow;
+}
+.display{
+    margin-top:30px;
+    height:4rem;
+    width:47%;
+    background-color: whitesmoke;
+    padding:20px;
+    text-align: center;
+
+}
+.msg{
+    height:3rem;
+    width:75%;
+    font-size: 2rem;
+    border:none;
+    outline:none;
+    cursor:pointer;
+    background-color: whitesmoke;
+    padding-left: 5px;
+}
+.img{
+    height:3rem;
+    width:10%; 
+}
+.button{
+    width:20%;
+    height:5rem;
+    background-color: chartreuse;
+    margin-top:30px;
+    border-radius: 20px;
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}
+.txt{
+    height:3rem;
+    width:27%;
+    padding:10px;
+    color:black;
+}
+.btn{
+    font-size: 2rem;
+    font-weight: 700;
+    background-color: chartreuse;
+    border:none;
+    align-items: center;
+    cursor:pointer;
+}
